@@ -1,0 +1,23 @@
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+@import url(http://fonts.googleapis.com/css?family=Pacifico);
+@import url(http://fonts.googleapis.com/css?family=Lato);
+
+$body-bg:	#2c3e50;
+$font-family-sans-serif:	'Lato', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+$navbar-inverse-bg: #34495e;
+$navbar-inverse-link-color: #f39c12;
+$btn-primary-bg: #f39c12;
+$btn-default-bg: #bdc3c7;
+$jumbotron-bg: #7f8c8d;
+$jumbotron-color: #f1c40f;
+$jumbotron-heading-color: #ecf0f1;
+
+@import 'bootstrap';
+
+.center {
+     text-align: center;
+}
+
+.navbar-brand {
+	font-weight: bold;
+}
