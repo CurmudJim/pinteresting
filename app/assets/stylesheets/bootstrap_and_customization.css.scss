@@ -12,6 +12,7 @@ $jumbotron-bg: #7f8c8d;
 $jumbotron-color: #f1c40f;
 $jumbotron-heading-color: #ecf0f1;
 
+@import 'bootstrap-sprockets';
 @import 'bootstrap';
 
 .center {
